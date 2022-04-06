@@ -6,6 +6,7 @@ sites:
   - name: CIAOYU
     url: https://www.ciaoyu.com.tw
     showAverageResponseTime: false
+    icon: https://www.ciaoyu.com.tw/favicon.ico
   - name: HPA-ARTM
     url: https://artm.hpa.gov.tw
     showAverageResponseTime: false
@@ -18,8 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.ciaoyu.com.tw
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.ciaoyu.com.tw/logo.png
+  name: 蕎羽包包資訊有限公司系統監測平台
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

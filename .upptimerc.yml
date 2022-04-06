@@ -10,6 +10,9 @@ sites:
   - name: HPA-ARTM
     url: https://artm.hpa.gov.tw
     showAverageResponseTime: false
+  - name: NYCU-DISCUSS
+    url: https://discuss.ord.nycu.edu.tw/login
+    showAverageResponseTime: false
   - name: NYCU-FUND
     url: https://fund.nycu.edu.tw
     showAverageResponseTime: false
@@ -21,16 +24,14 @@ sites:
     showAverageResponseTime: false
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.ciaoyu.com.tw
-  # baseUrl: /upptime
+  cname: "upptime.ciaoyu.com.tw"
+  favicon: https://www.ciaoyu.com.tw/favicon.ico
   logoUrl: https://www.ciaoyu.com.tw/logo.png
-  name: "系統監測"
+  name: "系統監測平台"
   introTitle: ""
   introMessage: ""
   navbar:
-    - title: 系統狀態
+    - title: 狀態
       href: /
 
 # Upptime also supports notifications, assigning issues, and more

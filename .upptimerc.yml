@@ -26,21 +26,19 @@ status-website:
   cname: upptime.ciaoyu.com.tw
   # baseUrl: /upptime
   logoUrl: https://www.ciaoyu.com.tw/logo.png
-  name: "蕎羽包包資訊有限公司系統監測平台"
+  name: "系統監測"
   introTitle: ""
   introMessage: ""
   navbar:
     - title: 系統狀態
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
   activeIncidents: "活動事件"
-  allSystemsOperational: "目前所有系统都正常運作中"
+  allSystemsOperational: "正常運作中"
   incidentReport: "事件 #$NUMBER 報告 →"
   activeIncidentSummary: "在 $DATE 打開，有 $POSTS 個訊息"
   incidentTitle: "事件 $NUMBER 的詳細訊息"
@@ -58,9 +56,9 @@ i18n:
   liveStatus: 即時狀態
   overallUptime: "正常運作時間： $UPTIME"
   overallUptimeTitle: 正常運作時間
-  averageResponseTime: "平均反應時間: $TIMEms"
-  averageResponseTimeTitle: 平均反應時間
-  sevelDayResponseTime: 7 天反應時間
+  averageResponseTime: "平均回應速度: $TIMEms"
+  averageResponseTimeTitle: 平均回應速度
+  sevelDayResponseTime: 7 天回應速度
   responseTimeMs: 回應時間（毫秒）
   ms: "毫秒"
   loading: "讀取中"
@@ -94,13 +92,13 @@ i18n:
   url: "網址"
   status: "狀態"
   history: "歷史紀錄"
-  responseTime: "反應時間"
-  uptime: "正常運作時間"
+  responseTime: "回應速度"
+  uptime: "正常比例"
   up: "🟩 正常"
   degraded: "🟨 系統缓慢"
   down: "🟥 停機"
-  responseTimeGraphAlt: "反應時間圖像"
-  responseTimeDay: "24 小時反應時間"
+  responseTimeGraphAlt: "回應速度圖像"
+  responseTimeDay: "24 小時回應速度"
   responseTimeWeek: "7 天正常運作時間"
   responseTimeMonth: "30天的正常運作時間"
   responseTimeYear: "1年的正常運作時間"

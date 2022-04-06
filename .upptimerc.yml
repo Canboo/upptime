@@ -7,6 +7,9 @@ sites:
     url: https://www.ciaoyu.com.tw
   - name: 人工生殖通報系統
     url: https://artm.hpa.gov.tw
+  - name: NYCU-FUND
+    url: https://fund.nycu.edu.tw
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

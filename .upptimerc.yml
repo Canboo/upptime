@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CIAOYU
-    url: https://www.ciaoyu.com.tw/
+    url: https://www.ciaoyu.com.tw
     showAverageResponseTime: false
     icon: https://www.ciaoyu.com.tw/favicon.ico
   - name: HPA-ARTM

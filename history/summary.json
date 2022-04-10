@@ -4,19 +4,19 @@
     "url": "https://www.ciaoyu.com.tw",
     "icon": "https://www.ciaoyu.com.tw/favicon.ico",
     "slug": "ciaoyu",
-    "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
-    "time": 258,
-    "timeDay": 220,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "63.15%",
+    "uptimeDay": "63.15%",
+    "uptimeWeek": "63.15%",
+    "uptimeMonth": "63.15%",
+    "uptimeYear": "63.15%",
+    "time": 261,
+    "timeDay": 233,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 7
     }
   },
   {

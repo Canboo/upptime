@@ -3,7 +3,7 @@ owner: Canboo # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: CIAOYU
+  - name: CIAOYU-COM
     url: https://www.ciaoyu.com.tw
     showAverageResponseTime: false
     icon: https://www.ciaoyu.com.tw/favicon.ico
@@ -24,12 +24,12 @@ sites:
     showAverageResponseTime: false
 
 status-website:
-  cname: "upptime.ciaoyu.com.tw"
+  cname: upptime.ciaoyu.com.tw
   favicon: https://www.ciaoyu.com.tw/favicon.ico
   logoUrl: https://www.ciaoyu.com.tw/logo.png
-  name: "系統監測平台"
-  introTitle: ""
-  introMessage: ""
+  name: '系統監測平台'
+  introTitle: ''
+  introMessage: ''
   navbar:
     - title: 狀態
       href: /
@@ -38,31 +38,31 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  activeIncidents: "活動事件"
-  allSystemsOperational: "正常運作中"
-  incidentReport: "事件 #$NUMBER 報告 →"
-  activeIncidentSummary: "在 $DATE 打開，有 $POSTS 個訊息"
-  incidentTitle: "事件 $NUMBER 的詳細訊息"
-  incidentDetails: "事件詳細訊息"
-  incidentFixed: "已修復"
-  incidentOngoing: "正在進行"
-  incidentOpenedAt: "開始於"
-  incidentClosedAt: "結束於"
-  incidentSubscribe: "訂閱更新"
+  activeIncidents: '活動事件'
+  allSystemsOperational: '正常運作中'
+  incidentReport: '事件 #$NUMBER 報告 →'
+  activeIncidentSummary: '在 $DATE 打開，有 $POSTS 個訊息'
+  incidentTitle: '事件 $NUMBER 的詳細訊息'
+  incidentDetails: '事件詳細訊息'
+  incidentFixed: '已修復'
+  incidentOngoing: '正在進行'
+  incidentOpenedAt: '開始於'
+  incidentClosedAt: '結束於'
+  incidentSubscribe: '訂閱更新'
   incidentViewOnGitHub: 在 GitHub 上查看
   incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 過往的事件
   pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分鐘内得到解决
   liveStatus: 即時狀態
-  overallUptime: "正常運作時間： $UPTIME"
+  overallUptime: '正常運作時間： $UPTIME'
   overallUptimeTitle: 正常運作時間
-  averageResponseTime: "平均回應速度: $TIMEms"
+  averageResponseTime: '平均回應速度: $TIMEms'
   averageResponseTimeTitle: 平均回應速度
   sevelDayResponseTime: 7 天回應速度
   responseTimeMs: 回應時間（毫秒）
-  ms: "毫秒"
-  loading: "讀取中"
+  ms: '毫秒'
+  loading: '讀取中'
   navGitHub: GitHub
   footer: © 2019-2022 Ciaoyu-baobao Information Co., Ltd
   rateLimitExceededTitle: 超出速率限制
@@ -90,24 +90,24 @@ i18n:
   durationMin: $DURATION 分鐘
   incidentCompleted: 已完成
   incidentScheduled: 已預定
-  url: "網址"
-  status: "狀態"
-  history: "歷史紀錄"
-  responseTime: "回應速度"
-  uptime: "正常比例"
-  up: "🟩 正常"
-  degraded: "🟨 系統缓慢"
-  down: "🟥 停機"
-  responseTimeGraphAlt: "回應速度圖像"
-  responseTimeDay: "24 小時回應速度"
-  responseTimeWeek: "7 天正常運作時間"
-  responseTimeMonth: "30天的正常運作時間"
-  responseTimeYear: "1年的正常運作時間"
-  uptimeDay: "24 小時正常運作時間"
-  uptimeWeek: "7 天正常運作時間"
-  uptimeMonth: "30天的正常運作時間"
-  uptimeYear: "1年的正常運作時間"
-  liveStatusHtmlComment: "<！ -即時狀態- >"
-  degradedPerformance: "🟨 性能降低"
-  completeOutage: "🟥 全部系統停擺中"
-  partialOutage: "🟧 部份系統停擺中"
+  url: '網址'
+  status: '狀態'
+  history: '歷史紀錄'
+  responseTime: '回應速度'
+  uptime: '正常比例'
+  up: '🟩 正常'
+  degraded: '🟨 系統缓慢'
+  down: '🟥 停機'
+  responseTimeGraphAlt: '回應速度圖像'
+  responseTimeDay: '24 小時回應速度'
+  responseTimeWeek: '7 天正常運作時間'
+  responseTimeMonth: '30天的正常運作時間'
+  responseTimeYear: '1年的正常運作時間'
+  uptimeDay: '24 小時正常運作時間'
+  uptimeWeek: '7 天正常運作時間'
+  uptimeMonth: '30天的正常運作時間'
+  uptimeYear: '1年的正常運作時間'
+  liveStatusHtmlComment: '<！ -即時狀態- >'
+  degradedPerformance: '🟨 性能降低'
+  completeOutage: '🟥 全部系統停擺中'
+  partialOutage: '🟧 部份系統停擺中'

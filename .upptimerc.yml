@@ -1,28 +1,21 @@
-# Change these first
-owner: Canboo # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: Canboo
+repo: upptime
+assignees:
+  - Canboo
 sites:
   - name: CIAOYU-COM
     url: https://www.ciaoyu.com.tw
-    showAverageResponseTime: false
     icon: https://www.ciaoyu.com.tw/favicon.ico
   - name: HPA-ARTM
     url: https://artm.hpa.gov.tw
-    showAverageResponseTime: false
   - name: NYCU-DISCUSS
     url: https://discuss.ord.nycu.edu.tw/login
-    showAverageResponseTime: false
   - name: NYCU-FUND
     url: https://fund.nycu.edu.tw
-    showAverageResponseTime: false
   - name: NYCU-GA
     url: https://ga.nycu.edu.tw
-    showAverageResponseTime: false
   - name: NYCU-ORD
     url: https://ord.nycu.edu.tw
-    showAverageResponseTime: false
-
 status-website:
   cname: upptime.ciaoyu.com.tw
   favicon: https://www.ciaoyu.com.tw/favicon.ico
@@ -33,10 +26,6 @@ status-website:
   navbar:
     - title: 狀態
       href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
 i18n:
   activeIncidents: '活動事件'
   allSystemsOperational: '正常運作中'

@@ -49,47 +49,47 @@ i18n:
   incidentOpenedAt: '開始於'
   incidentClosedAt: '結束於'
   incidentSubscribe: '訂閱更新'
-  incidentViewOnGitHub: 在 GitHub 上查看
-  incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
-  incidentBack: ← 返回所有事件
-  pastIncidents: 過往的事件
-  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分鐘内得到解决
-  liveStatus: 即時狀態
+  incidentViewOnGitHub: '在 GitHub 上查看'
+  incidentCommentSummary: '由 $AUTHOR 在 $DATE 发布'
+  incidentBack: '← 返回所有事件'
+  pastIncidents: '過往的事件'
+  pastIncidentsResolved: '$POSTS 个问题在 $MINUTES 分鐘内得到解决'
+  liveStatus: '即時狀態'
   overallUptime: '正常運作時間： $UPTIME'
-  overallUptimeTitle: 正常運作時間
+  overallUptimeTitle: '正常運作時間'
   averageResponseTime: '平均回應速度: $TIMEms'
-  averageResponseTimeTitle: 平均回應速度
-  sevelDayResponseTime: 7 天回應速度
-  responseTimeMs: 回應時間（毫秒）
+  averageResponseTimeTitle: '平均回應速度'
+  sevelDayResponseTime: '7 天回應速度'
+  responseTimeMs: '回應時間（毫秒）'
   ms: '毫秒'
   loading: '讀取中'
   navGitHub: GitHub
   footer: © 2019-2022 Ciaoyu-baobao Information Co., Ltd
-  rateLimitExceededTitle: 超出速率限制
-  rateLimitExceededIntro: 您已超过一小時内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
-  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站狀態的即時数据。默认情况下，GitHub 允许每个 IP 地址每小時 60 个请求，您已经消耗了这些请求。
-  rateLimitExceededErrorHowCanFix: 我该如何解决？
-  rateLimitExceededErrorFix: 您可以再等一个小時，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这将为您提供每小時额外 5,000 个请求。
-  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
-  rateLimitExceededHasSet: 您有一个个人访问令牌集。
-  rateLimitExceededRemoveToken: 删除令牌
-  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
-  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
-  rateLimitExceededSaveToken: 保存令牌
-  errorTitle: 发生错误
-  errorIntro: 尝试获取最新狀態详细信息时出错。
-  errorText: 您可以稍后再试。
-  errorHome: 转到主页
-  pastScheduledMaintenance: 過往的預定維護
-  scheduledMaintenance: 定期維護
-  scheduledMaintenanceSummaryStarted: 從 $DATE 開始，持續 $DURATION 分鐘
-  scheduledMaintenanceSummaryStarts: 從 $DATE 開始，持續 $DURATION 分鐘
-  startedAt: 開始在
-  startsAt: 開始於
-  duration: 持續時間
-  durationMin: $DURATION 分鐘
-  incidentCompleted: 已完成
-  incidentScheduled: 已預定
+  rateLimitExceededTitle: '超出速率限制'
+  rateLimitExceededIntro: '您已超过一小時内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。'
+  rateLimitExceededWhatDoesErrorMean: '这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站狀態的即時数据。默认情况下，GitHub 允许每个 IP 地址每小時 60 个请求，您已经消耗了这些请求。'
+  rateLimitExceededErrorHowCanFix: '我该如何解决？'
+  rateLimitExceededErrorFix: '您可以再等一个小時，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这将为您提供每小時额外 5,000 个请求。'
+  rateLimitExceededGeneratePAT: '了解如何生成个人访问令牌'
+  rateLimitExceededHasSet: '您有一个个人访问令牌集。'
+  rateLimitExceededRemoveToken: '删除令牌'
+  rateLimitExceededGitHubPAT: 'GitHub 个人访问令牌'
+  rateLimitExceededCopyPastePAT: '复制并粘贴您的令牌'
+  rateLimitExceededSaveToken: '保存令牌'
+  errorTitle: '发生错误'
+  errorIntro: '尝试获取最新狀態详细信息时出错。'
+  errorText: '您可以稍后再试。'
+  errorHome: '转到主页'
+  pastScheduledMaintenance: '過往的預定維護'
+  scheduledMaintenance: '定期維護'
+  scheduledMaintenanceSummaryStarted: '從 $DATE 開始，持續 $DURATION 分鐘'
+  scheduledMaintenanceSummaryStarts: '從 $DATE 開始，持續 $DURATION 分鐘'
+  startedAt: '開始在'
+  startsAt: '開始於'
+  duration: '持續時間'
+  durationMin: '$DURATION 分鐘'
+  incidentCompleted: '已完成'
+  incidentScheduled: '已預定'
   url: '網址'
   status: '狀態'
   history: '歷史紀錄'

@@ -14,8 +14,6 @@ sites:
   - name: CIAOYU
     url: https://www.ciaoyu.com.tw
     icon: https://www.ciaoyu.com.tw/favicon.ico
-  - name: HPA-ARTM
-    url: https://artm.hpa.gov.tw
   - name: NYCU-DISCUSS
     url: https://discuss.ord.nycu.edu.tw/login
   - name: NYCU-FUND

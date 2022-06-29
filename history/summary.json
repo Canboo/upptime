@@ -4,36 +4,40 @@
     "url": "https://www.ciaoyu.com.tw",
     "icon": "https://www.ciaoyu.com.tw/favicon.ico",
     "slug": "ciaoyu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 440,
-    "timeWeek": 515,
-    "timeMonth": 452,
+    "timeDay": 428,
+    "timeWeek": 503,
+    "timeMonth": 451,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "NYCU-DISCUSS",
     "url": "https://discuss.ord.nycu.edu.tw/login",
     "icon": "https://favicons.githubusercontent.com/discuss.ord.nycu.edu.tw",
     "slug": "nycu-discuss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 787,
-    "timeWeek": 731,
-    "timeMonth": 842,
-    "timeYear": 665,
-    "dailyMinutesDown": {}
+    "time": 664,
+    "timeDay": 661,
+    "timeWeek": 706,
+    "timeMonth": 832,
+    "timeYear": 664,
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "NYCU-FUND",

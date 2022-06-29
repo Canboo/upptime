@@ -4,19 +4,19 @@
     "url": "https://www.ciaoyu.com.tw",
     "icon": "https://www.ciaoyu.com.tw/favicon.ico",
     "slug": "ciaoyu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 428,
-    "timeWeek": 503,
-    "timeMonth": 451,
-    "timeYear": 386,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.95%",
+    "time": 385,
+    "timeDay": 360,
+    "timeWeek": 472,
+    "timeMonth": 444,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 60
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://discuss.ord.nycu.edu.tw/login",
     "icon": "https://favicons.githubusercontent.com/discuss.ord.nycu.edu.tw",
     "slug": "nycu-discuss",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 661,
-    "timeWeek": 706,
-    "timeMonth": 832,
-    "timeYear": 664,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.95%",
+    "time": 662,
+    "timeDay": 601,
+    "timeWeek": 681,
+    "timeMonth": 821,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 60
     }
   },
   {
